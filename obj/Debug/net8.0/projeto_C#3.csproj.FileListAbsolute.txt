@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\bin\Debug\net8.0\projeto_C#3.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\bin\Debug\net8.0\projeto_C#3.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\bin\Debug\net8.0\projeto_C#3.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\bin\Debug\net8.0\projeto_C#3.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\bin\Debug\net8.0\projeto_C#3.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\obj\Debug\net8.0\projeto_C#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\obj\Debug\net8.0\projeto_C#3.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\obj\Debug\net8.0\projeto_C#3.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\obj\Debug\net8.0\projeto_C#3.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\obj\Debug\net8.0\projeto_C#3.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\obj\Debug\net8.0\refint\projeto_C#3.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\obj\Debug\net8.0\projeto_C#3.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\obj\Debug\net8.0\projeto_C#3.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Cursos\C#\projeto_C#3\obj\Debug\net8.0\ref\projeto_C#3.dll
